@@ -15,9 +15,10 @@ languages
 
 
 - python
-
+- golang
+- html/css
 
 learning
 ===
 
-- golang
+- rust
