@@ -6,19 +6,10 @@ discord
 projects
 ===
 
-- guardian angel
-- morgue
-- monroe
+- apollo
 
 languages
 ===
 
 
 - python
-- golang
-- html/css
-
-learning
-===
-
-- rust
