@@ -7,9 +7,15 @@ projects
 ===
 
 - apollo
+- doomsday
+- anything really 
 
 languages
 ===
 
 
 - python
+- go
+- coffee
+- css
+- html
